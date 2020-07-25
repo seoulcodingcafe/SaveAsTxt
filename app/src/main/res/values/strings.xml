@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SaveAsTxt</string>
+    <string name="how_to_use">
+        How to use:\n
+        1. Share a text from other application\n
+        2. Choose \&quot;SaveAsTxt\&quot;\n
+        3. Choose destination file\n
+        You can share this guide text for testing.\n
+    </string>
+    <string name="share_this_guide_text">share this guide text</string>
+    <string name="license">License</string>
+</resources>

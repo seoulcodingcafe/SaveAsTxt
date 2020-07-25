@@ -1,0 +1,1 @@
+Very small tool to save as txt from share menu of other applications

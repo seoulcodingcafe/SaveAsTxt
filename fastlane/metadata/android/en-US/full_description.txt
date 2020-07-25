@@ -1,0 +1,1 @@
+Very small open source application that you can use to save as txt file from share menu of other applications.
